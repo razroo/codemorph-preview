@@ -1,5 +1,5 @@
-# Razroo NPM Starter
-Includes Typescript 
+# Codemorph Preview
+Creates previews for your code based on the virtual file system. Notable as well, that creates previews for different type of features such as libs, interfaces, services etc.
 
 ## Easy way to use this boilerplate ##
 
